@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296865436624",
+    "project_id": "auth-efb9a",
+    "storage_bucket": "auth-efb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296865436624:android:27eab7b73097ba66e71fd5",
+        "android_client_info": {
+          "package_name": "com.cypher.auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296865436624-0tfh1stkmqnn1unr7dbmqu4edu1jrvi8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChv8yaXCVIfED7LBXkpNkC94r1tgtxQlM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296865436624-0tfh1stkmqnn1unr7dbmqu4edu1jrvi8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
